@@ -213,7 +213,7 @@ def mostrar():
     lista = mostrar_info()
 
     ## Lista para cabeçalho
-    tabela_head = ['ID', 'Nome', 'E-Mail', 'Telefone', 'Data', 'Estado', 'Sobre']
+    tabela_head = ['ID', 'Nome', 'e-mail', 'Telefone', 'Data', 'Estado', 'Sobre']
 
     # Criando a tabela
     tree = ttk.Treeview(frame_direita, selectmode='extended', columns=tabela_head, show='headings')
