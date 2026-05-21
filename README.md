@@ -2,4 +2,4 @@
 
 ***
 
-Projeto de CRUD em Python utilizando as bibliotecas Tkinter e SQLite.
+Projeto de CRUD em Python utilizando as bibliotecas Tkinter e SQLite.e
